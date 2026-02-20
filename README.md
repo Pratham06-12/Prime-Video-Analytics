@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/2560px-Amazon_Prime_Video_logo.svg.png" width="300" alt="Amazon Prime Video"/>
-
 # 🎬 Amazon Prime Video — Content Analysis
 
 **An interactive Power BI dashboard exploring 100+ years of Prime Video content**
